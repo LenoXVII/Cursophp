@@ -26,11 +26,3 @@ La aplicación permite listar, registrar, actualizar y eliminar estudiantes medi
 - XAMPP o Laravel Artisan Server  
 
 ---
-
-## ⚙️ Configuración del Proyecto
-
-### 1️⃣ Clonar el repositorio
-
-```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
